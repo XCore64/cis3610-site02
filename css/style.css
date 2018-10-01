@@ -1,0 +1,105 @@
+#tr1 {
+	text-align: right;
+}
+
+body {
+	background-color: black;
+}
+
+td {
+	padding-left: 10px;
+}	
+
+#linkA {
+	font-family: Segoe UI;
+	color: black;
+	padding-right: 20px;
+}
+
+#linkA:hover {
+	color: #919190;
+}
+
+h3 {
+	font-family: Segoe UI;
+}	
+
+a:link {
+	font-family: "nobel-bold",Helvetica,sans-serif;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+	padding-right: 20px;
+}	
+
+a:visited {
+	color: blue;
+}	
+
+a:hover {
+	color: #919191;
+}	
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gray;
+}	
+
+#td2 {
+	text-align: center;
+}
+
+#banner {
+	display:block;
+    margin-left:auto;
+	margin-right: auto;
+}
+
+#logo {
+	float: left;
+	padding-left: 20px;
+}
+
+#bodyimage {
+	float: left;
+	padding-right: 20px;
+}	
+
+.topnav {
+	overflow: hidden;
+	background-color: gray;
+}	
+
+.menu {
+	background-color: gray;
+	padding: 13px 13px;
+}	
+
+.menu a{
+	text-decoration: none;
+	text-align: center;
+	overflow: hidden;
+	padding: 14px 14px;
+}	
+
+.body {
+	background-color: gray;
+}	
+
+.body a {
+	text-align: center;
+}	
+
+.link {
+	float:right;
+	padding: 10px 15px 10px 10px;
+}	
+
+.footer {
+	background-color: gray;
+	padding: 10px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}	
